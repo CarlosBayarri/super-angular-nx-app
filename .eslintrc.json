@@ -12,7 +12,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "superAngularNxApp",
+            "prefix": "super-angular-nx-app",
             "style": "camelCase"
           }
         ],
