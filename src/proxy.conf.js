@@ -8,8 +8,4 @@ const PROXY_CONFIG = [
   },
 ];
 
-const setupForCorporateProxy = (conf) => {
-  return conf;
-};
-
-module.exports = setupForCorporateProxy(PROXY_CONFIG);
+module.exports = PROXY_CONFIG;
